@@ -13,7 +13,7 @@
     "octicons": "^2.2.0",
     "qs": "^2.4.1",
     "react": "^0.13.2",
-    "url-loader": "^0.5.5",   
+    "url-loader": "^0.5.5",
     "xhr": "^2.0.1"
   },
   "devDependencies": {
@@ -27,10 +27,10 @@
     "standard": "^3.7.0",
     "style-loader": "^0.10.2",
     "stylus-loader": "^1.1.0",
-    "surge": "^0.11.1",
-    "yeticss": "^6.0.3",
+    "surge": "^0.17.7",
     "webpack": "^1.8.5",
-    "webpack-dev-server": "^1.8.0"
+    "webpack-dev-server": "^1.8.0",
+    "yeticss": "^6.0.3"
   },
   "license": "MIT",
   "main": "index.js",
